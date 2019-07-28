@@ -1,9 +1,0 @@
-name = "kishanExample"
-tags = {
-  "office-time" = "Mumbai-10"
-  "Project"     = "PE-Training"
-  "Email"       = "kishan.rathore@quantiphi.com"
-  "Username"    = "kishan.rathore"
-}
-db_password = <enter-your-password>
-# NOTE: This is an example file, the actual file is gitignored
